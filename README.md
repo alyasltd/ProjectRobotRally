@@ -16,6 +16,7 @@ Les éléments de la fabrique qu’un robot peut rencontrer sont :
 -	*Case Laser* : augmente les points de dégâts du joueur de 1, 2 ou 3 selon la clé associée à la case.
 -	*Case BlackHole* : détruit le joueur et le renvoie à son dernier chekcpoint.
 -	*Case Outils* : case de réparation, baisse les points de dégât du joueur de 1, 2 ou 3, selon la clé associée à la case.
+
 L’importance des points de dégât et des points de vie est primordiale. 
 Si un joueur perd 1 point de vie, il meurt temporairement et est renvoyé au dernier checkpoint traversé. Au bout de 3 points de vie perdus, le robot est définitivement mort et le joueur éliminé.
 Si un jour possède 10 points de dégâts, alors il perd 1 point de vie. De plus, à partir de 5 points de dégâts, on ne distribue plus que 5 cartes au joueur, donc on ne lui permet plus de choisir les cartes qu’il veut parmi 9 proposées. Et de 6 à 10 points de dégâts, le nombre de carte distribuées au joueur diminue de 1 à 1.
@@ -48,6 +49,6 @@ Vous pourriez lancer le fichier Main coté "RBR Clien", vous lancer ce fichier t
 ## _Droit d’auteur :_
 -> Alya ZOUZOU
 -> Audric GIRONDIN
--> Noa THEBAULT
+-> Noa THEBAUT
 -> Jonathan DUCKES
 -> Lucas MARTINEZ
