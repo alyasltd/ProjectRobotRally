@@ -2,6 +2,7 @@
 
 ## _Présentation :_ 
 Nous avons créé sur Java un jeu roborally qui de base était un jeu de société. Ce dernier se joue de 2 à 4 joueurs, Le but du jeu est d’une part de garder son robot en état de marche, et d’autre part d’être le premier à rallier dans l’ordre 5 checkpoints. Nous n'avons pas pu finir le jeu, ainsi il n'y a pas d'intérarction avec les cases spéciales. Néanmoins, nous les avons codées. 
+De plus, les images du plateau de notre jeu, étant très nombreuses nous n'avons pas pu les déposer. Toutes les autres classes en dehors du fichier RbrServer font partie du client et de l'interface. 
 
 ## _Règles du jeu :_
 Pour se déplacer dans le jeu, chaque joueur recevra 9 cartes de direction et devra en sélectionner 5 qui définiront ainsi son parcours sur le plateau, et ce pour chaque tour. 
