@@ -1,7 +1,7 @@
 # ProjectRobotRally
 
 ## _Présentation :_ 
-Nous avons créé sur Java un jeu roborally qui de base était un jeu de société. Ce dernier se joue de 2 à 4 joueurs, Le but du jeu est d’une part de garder son robot en état de marche, et d’autre part d’être le premier à rallier dans l’ordre 5 checkpoints. 
+Nous avons créé sur Java un jeu roborally qui de base était un jeu de société. Ce dernier se joue de 2 à 4 joueurs, Le but du jeu est d’une part de garder son robot en état de marche, et d’autre part d’être le premier à rallier dans l’ordre 5 checkpoints. Nous n'avons pas pu finir le jeu, ainsi il n'y a pas d'intérarction avec les cases spéciales. Néanmoins, nous les avons codées. 
 
 ## _Règles du jeu :_
 Pour se déplacer dans le jeu, chaque joueur recevra 9 cartes de direction et devra en sélectionner 5 qui définiront ainsi son parcours sur le plateau, et ce pour chaque tour. 
@@ -34,7 +34,8 @@ La joueur qui est passé par le plus de checkpoints gagne.
 ## _Les Bugs :_
        - Parfois, le message 'Server is ready ne peut pas s'afficher sur la console, cela signifie surement que le port 
        du serveur est déjà utilisé ou a trop était utilisé. Changer le port dans le fichier Main du serveur et aussi du Client !
-       -
+       - Certaines Cartes ne sont pas sélectionnables, nous n'avons pas réussi à débeugger. 
+       - Le joueur peut sortir du plateau nous n'avons pas eu le temps de régler le problème. 
 
 ## _Source :_
 -	YouTube
